@@ -1,0 +1,8 @@
+{
+  "name": "EuRokeVision",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "c9070f49"
+}
